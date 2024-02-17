@@ -1,0 +1,274 @@
+
+
+
+.buttonDATEANDTIME{
+   
+    margin-left: 80%;
+}
+.buttonDATEANDTIME:hover{
+    background-color: red;
+    
+    
+}
+
+ #Menu{
+    background-color: black;
+    font-weight: 00;
+    list-style: none;
+    display: flex;
+    justify-content: center;   
+} 
+#Menu li a {
+    text-decoration: none !important;
+
+}
+#Menu li {
+    padding: 20px;
+    
+}
+#Menu li:hover{
+    background-color: white;
+
+}
+#MenuErziehungBildung{ background-color: black;
+    font-weight: 200;
+    list-style: none;
+    display: flex;
+    justify-content: center;  
+    margin-top: -35px;
+
+}
+#MenuErziehungBildung li a  {
+    text-decoration: none;
+}
+#MenuErziehungBildung li:hover {
+    background-color: white;
+}
+#MenuErziehungBildung li{
+    padding: 20px;
+    
+    
+}
+
+#h1Sportvereine { display: flex;
+background-color: blue;
+height: 11%;
+
+/* border-bottom: black 15px solid ; */
+
+} 
+   #Sparkassen_lauf{
+    height: 250px;
+    width: 465px;
+}
+#paraSportvereine {
+ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    /* margin-top: auto; */
+    /* border: 2px solid blue; */
+    width: 25%;
+    background-color: whitesmoke;
+}
+#mainSport{ 
+  position:center; 
+    padding-left: 30%; 
+    margin-top: -500px;
+    margin-left: 30%;
+    
+   
+}  
+#mainSport i {
+    color: red;
+  
+}
+img{
+    max-height: 25rem;
+     
+}
+
+
+
+#bild1 { border: 1px solid #808080;
+    padding: 2px ;
+    margin: 50px ;
+    border-radius: 20px;
+
+}
+#Bild2 {
+    
+    border-radius: 20px;
+
+    height: 250px;
+    width: 250;
+}
+
+#text {
+    background-color: white;
+}
+
+.class{
+    background-color: lightgray ;
+    
+}
+.class1{
+    background-color: whitesmoke;
+}
+
+ .mainhot{
+   
+    border-bottom :   black solid;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+} 
+
+#headerBildungUndForschung{
+    background-color: blue;
+}
+#headerBildungUndForschung  h4{
+   
+    margin-left: 75%;
+}
+#headerBildungUndForschung h5{
+    margin-left:73% ;
+}
+.StadtVerwaltungUndBehoerde table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: whitesmoke
+    
+}
+#StadtVerwaltungAdressen{
+    position:center ;
+    padding-left: 30%; 
+    margin-top: -500px;
+    margin-left: 25%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#StadtVerwaltungAnzeigen{
+      position:left ;
+    padding-left: 30%; 
+    margin-top: -500px;
+    margin-left: 55%;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+    .DruckenBildungForschung{
+     background-color: black; 
+    font-weight: 00;
+    display: flex;
+    justify-content: left; 
+    color: white;
+    }
+.Drucken{
+      background-color: black;
+    font-weight: 00;
+    display: flex;
+    justify-content: left; 
+    color: white;
+  
+}
+.Freizeitgestaltung{
+   background-color: black;
+    font-weight: 00;
+    list-style: none;
+    display: flex;
+    justify-content: right; 
+    color: white;
+    height: 8%; 
+ }
+
+ 
+ .Freizeitgestaltung i {
+    margin-left: 32%;
+ }
+ .Freizeitgestaltung{
+    padding: 20px;
+ }
+ .Freizeitgestaltung i strong:hover{
+   background-color: whitesmoke;
+ }
+ .footerErziehungBildung{ 
+    background-color: black;
+    font-weight: 00;
+    list-style: none;
+    display: flex;
+    justify-content: right; 
+    color: white;
+    height: 8%;
+
+ }
+ .footerErziehungBildung i {
+    margin-left: 32%;
+
+ }
+ .footerErziehungBildung{
+    padding: 20px;
+ }
+ .footerErziehungBildung i strong:hover{
+    background-color:whitesmoke;
+ }
+ .footerStadtVerwaltung{
+    background-color: black;
+    font-weight: 00;
+    list-style: none;
+    display: flex;
+    justify-content: right; 
+    color: white;
+    height: 8%;
+     }
+    .footerErziehungBildung i {
+        margin-left: 32%;
+    
+     }
+ 
+ .footerStadtVerwaltung i {
+    /* margin-left: 32%; */
+ 
+  max-height: -200;
+ }
+ .footerStadtVerwaltung{
+    padding: 20px;
+ }
+
+ .footerBildungForschung{
+    background-color: black;
+    font-weight: 00;
+    list-style: none;
+    display: flex;
+    justify-content: right; 
+    color: white;
+    height: 8%;
+    
+ }
+ .footerBildungForschung  i {
+    margin-left: 32%;
+
+ }
+ 
+ .footerBildungForschung i {
+    margin-left: 32%;
+ }
+ .footerBildungForschung{
+    padding: 20px;
+ }
+
+/* .footer{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    margin-bottom: 10px; /* Espacement entre les éléments du menu 
+
+} */
+/* footer{
+      
+    
+    
+    position: fixed ;
+    width: 100%; 
+    background-color:red;
+    height: 100px;
+   color: #002cbe;
+    text-align: center;
+margin-top: 450px;
+} */
